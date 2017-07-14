@@ -1,5 +1,7 @@
-# vim_config
+# vim\_config and tmux\_config
 
-my vim configure file for ubuntu 16.04LTS
+vim configure file and some my favorite plugins for ubuntu 16.04LTS
 
-and some me favorite useful and effective plugins for vim 
+tmux configure file and some plugins for ubuntu 16.04LTS
+
+
